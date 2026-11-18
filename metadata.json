@@ -1,0 +1,8 @@
+{
+  "name": "MedRastreia — Copiloto de Atendimento & Qualidade",
+  "description": "Protótipo operacional interno de triagem, rastreabilidade ERP e fila de laudos da qualidade para a Mediterrânea Alimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
